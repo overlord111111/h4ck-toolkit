@@ -255,3 +255,10 @@ Este kit foi criado **exclusivamente para fins educacionais e testes de seguran�
 ## 📄 Licença
 
 MIT
+
+---
+
+<p align="center">
+  <a href="https://overlord111111.github.io">Portfolio</a> &bull; 
+  <a href="https://github.com/overlord111111">GitHub</a>
+</p>
