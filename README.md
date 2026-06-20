@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python">
+</p>
+
 # 🛡️ h4ck-toolkit
 
 Kit de ferramentas de **segurança ofensiva** para reconhecimento e scanning, escritas em Python puro. Focado em simplicidade, funcionalidade e aprendizado prático de técnicas de penetration testing.
