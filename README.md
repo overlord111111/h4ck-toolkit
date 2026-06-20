@@ -11,7 +11,7 @@ Kit de ferramentas de **segurança ofensiva** para reconhecimento e scanning, es
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Master/h4ck-toolkit.git
+git clone https://github.com/overlord111111/h4ck-toolkit.git
 cd h4ck-toolkit
 
 # Instale as dependências

@@ -11,8 +11,9 @@ setup(
     description="Kit de ferramentas de segurança ofensiva para reconhecimento e scanning",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="h4ck-toolkit",
-    url="https://github.com/Master/h4ck-toolkit",
+    author="Over",
+    author_email="over.lord.hck@proton.me",
+    url="https://github.com/overlord111111/h4ck-toolkit",
     packages=find_packages(),
     install_requires=[
         "requests>=2.28.0",
